@@ -1,4 +1,4 @@
-package com.hrodriguesdev.suser;
+package com.hrodriguesdev;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
